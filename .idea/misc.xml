@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/drawable/splash_screen.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_egresos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_estadisticas.xml" value="0.26973684210526316" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_main.xml" value="0.25705329153605017" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_productos.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_vender.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/activity_ventas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/input_egreso.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/input_producto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/item_egresos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/item_productos.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/item_productos_a.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/item_productos_v.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/Bellaquita/app/src/main/res/layout/venta_generada.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

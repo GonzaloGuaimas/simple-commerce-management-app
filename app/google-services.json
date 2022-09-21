@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737278491766",
+    "project_id": "bellaquita-db",
+    "storage_bucket": "bellaquita-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737278491766:android:4e4e93a73d9d6a61bef357",
+        "android_client_info": {
+          "package_name": "com.example.bellaquita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737278491766-q7kjtcrddqd8tsh1f17ai5f98anqeefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSddwqXXH3VPVVX5x_bMiAi_xAYaOlNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737278491766-q7kjtcrddqd8tsh1f17ai5f98anqeefc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
